@@ -1,0 +1,39 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'Boogaloo', cursive;
+  font-size: 2em;
+  letter-spacing: 0.2em;
+}
+
+.searchbar {
+  margin: 1em;
+  text-align: center;
+}
+
+.search-bar input {
+  margin: 0.5em;
+  height: 2em;
+  width: 100%;
+}
+
+.video-item img {
+  max-width: 2em;
+}
+
+.video-detail .details {
+  margin-top: 1em;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+}
